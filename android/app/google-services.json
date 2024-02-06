@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1081900294255",
+    "project_id": "cyclescan2",
+    "storage_bucket": "cyclescan2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081900294255:android:e12964cc2b9da9e311ed9a",
+        "android_client_info": {
+          "package_name": "com.example.cycle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1iYzFAISEw9oc50HhWyPCOXSeKn7clxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081900294255:android:552b39e25fee18b711ed9a",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1iYzFAISEw9oc50HhWyPCOXSeKn7clxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
